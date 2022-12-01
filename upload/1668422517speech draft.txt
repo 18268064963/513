@@ -1,0 +1,54 @@
+Hello everyone My group is A2-Jiaxing WuZhen (5A)
+
+Today we are going to talk about cyber security  planning. What is cyber security in the first place?
+They are the network data and information data virtual things for protection, and we have to learn how to exercise .how to judge before the information data is safe. To this end, we make a questionnaire about the network security awareness
+
+To
+
+
+So we did a questionnaire, and these are the 10 questions in the questionnaire，To
+Let's talk about the most classic and common phishing email problems，This is the information fed back from our investigation report. I have changed it into a bar chart to make it more clear to you
+
+To
+so we...We asked a total of 10 questions. One of the most classic questions asked if you would click on an email sent by an unknown person
+
+There are nine other questions that I'm not going to show, because that would be too much and it would look complicated
+
+To
+Now, let's talk about the policies and procedures for cyber security
+1.First of all, the purpose of policy is Ensure staff and company cyber security  awareness to prevent information leakage and theft
+2.Then the scope of the policy of Staff and Senior management
+3.The principles of the policy I am based on Privacy Act 1988
+4.It also explicitly regulates what employees should do, first of all Staff and Senior managementuse of computers: Ensure that the status of systems and software is updated in real time, and change passwords regularly
+
+To
+
+So let's talk about the procedures, the network specifications, that teach companies how to protect their data, right
+1.Review the company's or school's cyber security  policies and procedures every month and update them if necessary. Organize a meeting with senior management at least once a year to discuss cyber security  awareness, prepare for network risks and take notes
+2. Each person's device is only for their own use and cannot be lent to them. Every month the company sends out phishing emails or websites to employees to see if they are security conscious
+
+To
+
+Now let's talk about how to protect your information 
+
+cyber security  awareness is only a superficial memory, in practice may not be reflected. In the face of big data, we all know that we will not click open when we encounter phishing software, but if we really encounter phishing software, we will unconsciously click open, so there is no good habit
+
+With the development of science and technology, many in our lives are digital, especially mobile phones, also accompanied by the emergence of a lot of software, they will need your registered account password, nearly every software or web sites require you to register, also often appear or forget the password because the password is changed and account stolen things happen, so I listed three protection measures for the password, You have to follow it yourself,Frist
+1. The password must contain more than six characters in English and digits and special characters such as *-/
+2. We can change the password of our own equipment every month
+3. Do not share your information with others or lend your device to others
+
+
+To
+
+Of course, in addition to account theft in life there may be a computer or mobile phone virus, in this case we can 
+1. Download safe protection software, such as tinder, etc
+2. Regularly clean up your favorite websites
+3. Encrypt commonly used websites
+4. Keep software up to date
+
+
+
+
+
+
